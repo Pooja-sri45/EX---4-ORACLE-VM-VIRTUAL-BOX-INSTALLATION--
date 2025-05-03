@@ -112,7 +112,8 @@ Thus, Kali Linux guest OS was installed and configured successfully.
 ```
 ls
 ```
-![alt text](ls.png)
+![image](https://github.com/user-attachments/assets/155fe638-a0f9-476d-9728-d7dd05765ca1)
+
 
 2. pwd Command
 
@@ -122,7 +123,8 @@ ls
 ```
 pwd
 ```
-![alt text](pwd.png)
+![image](https://github.com/user-attachments/assets/fd0413c0-daa4-4bd8-b343-0ac991d539cb)
+
 
 3. mkdir Command
 
@@ -132,7 +134,8 @@ pwd
 ```
 mkdir <directory_name>
 ```
-![alt text](mkdir.png)
+![image](https://github.com/user-attachments/assets/ac3b2674-04fa-4753-a5e8-2721903d528f)
+
 
 4. rmdir Command
 
@@ -142,7 +145,7 @@ mkdir <directory_name>
 ```
 rmdir <directory_name>
 ```
-![alt text](rmdir.png)
+![image](https://github.com/user-attachments/assets/cc19a6bf-707c-45c5-b1c0-a41e12e9e9f3)
 
 5. cd Command
 The cd command is used to change the current directory
@@ -151,7 +154,8 @@ The cd command is used to change the current directory
 ```
 cd <directory_name>
 ```
-![alt text](cd.png)
+![image](https://github.com/user-attachments/assets/b5c30456-e8db-4579-b58d-ca234e419a38)
+
 
 6. cat Command
 
@@ -161,9 +165,10 @@ cd <directory_name>
 ```
 cat [options] [file_name]
 ```
-![alt text](cat.png)
+![Screenshot 2025-05-03 184835](https://github.com/user-attachments/assets/b89f48f5-158b-4731-981b-718ed2698a83)
 
-![alt text](<cat op.png>)
+![Screenshot 2025-05-03 184848](https://github.com/user-attachments/assets/2c50bcb5-863c-4169-8e49-dac60924ea2a)
+
 
 7. cp Command
 
@@ -172,9 +177,11 @@ cat [options] [file_name]
 ```
 cp [source] [destination]
 ```
-![alt text](copy.png)
+![Screenshot 2025-05-03 185052](https://github.com/user-attachments/assets/f9685ddb-af42-44ed-9c9c-06ee6d7de7b1)
 
-![alt text](<cat op2.png>)
+
+![image](https://github.com/user-attachments/assets/00311b53-c77f-4e21-a220-044193891083)
+
 
 8. mv Command
 
@@ -184,9 +191,9 @@ cp [source] [destination]
 ```
 mv [source] [destination]
 ```
-![alt text](mv.png)
+![image](https://github.com/user-attachments/assets/16d38e33-f8dd-4c80-8791-285e2f13fa18)
+![image](https://github.com/user-attachments/assets/08580592-9731-4fde-8687-574c465dba47)
 
-![alt text](<mv op.png>)
 
 9. touch Command
 
@@ -196,7 +203,8 @@ mv [source] [destination]
 ```
 touch [filename]
 ```
-![alt text](touch.png)
+![image](https://github.com/user-attachments/assets/5f1647e9-e541-45a7-b644-fa71e27b2341)
+
 
 10. vi Command
 
@@ -206,7 +214,8 @@ touch [filename]
 ```
 vi [filename]
 ```
-![alt text](vi.png)
+![image](https://github.com/user-attachments/assets/abb69f73-3516-4ac8-b7eb-eaa397ccf520)
+
 
 ## Result:
 Thus, various Linux commands were executed successfully in Kali Linux virtual machine.
