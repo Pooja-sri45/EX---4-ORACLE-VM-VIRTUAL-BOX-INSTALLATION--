@@ -12,7 +12,7 @@ To install and configure Oracle VM VirtualBox.
 
 * Machine with Internet access
 * Minimum 4 GB RAM
-* Sufficient storage space
+* * Sufficient storage space
 
 ## Steps:
 1. Download Oracle VM VirtualBox:
@@ -27,8 +27,7 @@ To install and configure Oracle VM VirtualBox.
     * Click Install.
     * Finish Installation and Launch VirtualBox.
 3. Configure VirtualBox:
-
-    * Open VirtualBox.
+   * Open VirtualBox.
     * Click New → Name VM → Select Type (Linux/Windows) and Version.
     * Allocate:
         * Minimum 2 GB RAM
@@ -69,8 +68,7 @@ To install and configure Kali Linux in Oracle VirtualBox.
 
     * Settings → Storage → Controller: IDE → Empty CD → Choose Disk File → Select Kali Linux ISO.
 6. Start Installation:
-
-    * Boot Virtual Machine → Choose Graphical Install.
+   * Boot Virtual Machine → Choose Graphical Install.
     * Set Language, Region, Keyboard.
     * Configure Network → Set Hostname (e.g., kali).
     * Set root password.
@@ -89,127 +87,8 @@ AWS Account Creation Snapshot
 Snapshot 1: Installing Oracle VirtualBox
 ![alt text](op1.png)
 
-Snapshot 3: Kali Running in VirtualBox
-
+Snapshot 2: Kali Running in VirtualBox
 ![alt text](op2.png)
 
 ## Result:
 Thus, Kali Linux guest OS was installed and configured successfully.
-
-## 3.c) Execution of Linux Commands in Kali
-
-## About Linux:
-* Open-source operating system.
-* Kernel manages communication between hardware and software.
-* Commands are case-sensitive.
-
-## Linux Commands:
-1. ls Command
-    
-    The ls command is used to display a list of content of a directory.
-
-### Syntax:
-```
-ls
-```
-![alt text](ls.png)
-
-2. pwd Command
-
-    The pwd command is used to display the location of the current working directory.
-
-### Syntax: 
-```
-pwd
-```
-![alt text](pwd.png)
-
-3. mkdir Command
-
-    The mkdir command is used to create a new directory under any directory.
-
-### Syntax: 
-```
-mkdir <directory_name>
-```
-![alt text](mkdir.png)
-
-4. rmdir Command
-
-    The rmdir command is used to delete a directory.
-
-### Syntax: 
-```
-rmdir <directory_name>
-```
-![alt text](rmdir.png)
-
-5. cd Command
-The cd command is used to change the current directory
-
-### Syntax: 
-```
-cd <directory_name>
-```
-![alt text](cd.png)
-
-6. cat Command
-
-    The cat command is a multi-purpose utility in the Linux system. It can be used to create a file, display content ofthe file, copy the content of one file to another file, and more.
-
-### Syntax: 
-```
-cat [options] [file_name]
-```
-![alt text](cat.png)
-
-![alt text](<cat op.png>)
-
-7. cp Command
-
-    The cp command is used to copy a file or directory.
-### Syntax: 
-```
-cp [source] [destination]
-```
-![alt text](copy.png)
-
-![alt text](<cat op2.png>)
-
-8. mv Command
-
-    The mv command is used to move a file or a directory form one location to another location.
-
-### Syntax: 
-```
-mv [source] [destination]
-```
-![alt text](mv.png)
-
-![alt text](<mv op.png>)
-
-9. touch Command
-
-    Create empty file.
-
-### Syntax: 
-```
-touch [filename]
-```
-![alt text](touch.png)
-
-10. vi Command
-
-    Edit file contents using editor.
-
-### Syntax: 
-```
-vi [filename]
-```
-![alt text](vi.png)
-
-## Result:
-Thus, various Linux commands were executed successfully in Kali Linux virtual machine.
-
-
-
